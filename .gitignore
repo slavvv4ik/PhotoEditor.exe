@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+*.spec.bak
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
+desktop.ini
+PhotoEditor.spec
